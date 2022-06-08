@@ -17,6 +17,7 @@ https\t4is_uv_mx\pos\ModificarInventarioResponse.class
 mx\uv\t4is\Pos\PosConf.class
 mx\uv\t4is\Pos\Usuario.class
 https\t4is_uv_mx\pos\BorrarProductoRequest.class
+mx\uv\t4is\Pos\IStock.class
 https\t4is_uv_mx\pos\ModificarStockResponse.class
 mx\uv\t4is\Pos\IUsuario.class
 https\t4is_uv_mx\pos\AgregarProductoResponse.class

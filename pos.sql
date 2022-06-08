@@ -1,7 +1,3 @@
-drop database if exists pos;
-create database pos;
-use pos;
-
 create table inventario (
 	id int auto_increment primary key,
 	nombre varchar(100) not null,
